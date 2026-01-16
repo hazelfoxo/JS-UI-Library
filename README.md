@@ -1,5 +1,5 @@
 # JS UI Library
-A simple, eays to use JS UI Library that can be used for mod menus for websites or games. Importing the module is simple and within 10 minutes you can have a UI ready to go.
+A simple, eay- to-use JS UI Library that can be used for mod menus for websites or games. Importing the module is simple and within 10 minutes you can have a UI ready to go.
 
 It's 99% pasted from ChatGPT idk why'd you want this.  
 But you're here soo :3
